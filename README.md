@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshita6224
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning computer graphics and java language.
+- 🌱 I’m currently learning AI/ML and Python language.
 - 💞️ I’m looking to collaborate on projects and intership.
 - 📫 How to reach me by linkedin.
 - I want to become a software engineer.
